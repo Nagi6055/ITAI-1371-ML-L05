@@ -3,4 +3,6 @@
 2.  Safa Basil
 I completed and tested the required data-preparation tasks in the Module 05 lab notebook. My work included loading and reviewing the Titanic dataset, replacing missing Age values with the median, encoding the Sex and Embarked columns with one-hot encoding, and standardizing the Age and Fare columns using StandardScaler. I ran the notebook cells, reviewed the outputs, completed the required questions and exported the finished notebook as a PDF.
 
-3.	NAME
+3.	3. Martin Habash
+
+I reviewed the Module 05 lab and looked at the data preparation tasks. I reviewed how to handle missing values, use One-Hot Encoding, and scale data with StandardScaler. I also reviewed the questions and the examples in the notebook.
