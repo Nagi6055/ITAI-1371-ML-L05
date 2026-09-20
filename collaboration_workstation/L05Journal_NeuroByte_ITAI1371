@@ -1,4 +1,7 @@
 1.	INTRODUCTION - (Jennifer R.)
+In this module 5 lab, L05 ML (Machine Learning) Data Preparation lab, it has shown while using the Titanic dataset for analysis, to focus how to use essential preprocessing tasks such as the setup and initial LookWe, 
+handling missing values such which is called imputation that means being able to fill in values, and lastly being able to encode categorial features. Being able to evaluate and understand these new features or more like 
+techniques to help prepare data is essential to machine learning to help prepare data before any type of modeling to start happening.
 
 2.	DESCRIPTION OF EXPERIENCE/TOPIC - (Safa Basil)
 In this lab, I worked with the Titanic dataset and practiced several data-preparation techniques. First, I examined the dataset for missing values. The Age column contained many missing values, so I calculated the median age and used it to replace them. Next, I used one-hot encoding on the Sex and Embarked columns because machine learning models require numerical data. I used drop_first=True to avoid creating unnecessary duplicate columns. Finally, I used StandardScaler to standardize the Age and Fare columns so that both features were placed on a similar scale.

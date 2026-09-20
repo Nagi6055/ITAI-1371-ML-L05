@@ -1,4 +1,7 @@
 1.	JENNIFER R.
+As contribution for this lab is first having everything prepared in GitHub, with a separate repository and folder where every team member can add their collaboration. 
+Then I worked on the Lab 5 notebook and help correct any errors that were presented while also reviewing the Titanic dataset and understanding the tools that were presented to us like one-hot encoding, 
+feature scaling and the tree model. I also help prepare the files together and make them presentable and ready in GitHub while keeping everyone in check.
 
 2.  Safa Basil
 I completed and tested the required data-preparation tasks in the Module 05 lab notebook. My work included loading and reviewing the Titanic dataset, replacing missing Age values with the median, encoding the Sex and Embarked columns with one-hot encoding, and standardizing the Age and Fare columns using StandardScaler. I ran the notebook cells, reviewed the outputs, completed the required questions and exported the finished notebook as a PDF.
