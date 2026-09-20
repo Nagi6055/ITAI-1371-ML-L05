@@ -1,7 +1,8 @@
 1.	INTRODUCTION - (Jennifer R.)
-In this module 5 lab, L05 ML (Machine Learning) Data Preparation lab, it has shown while using the Titanic dataset for analysis, to focus how to use essential preprocessing tasks such as the setup and initial LookWe, 
-handling missing values such which is called imputation that means being able to fill in values, and lastly being able to encode categorial features. Being able to evaluate and understand these new features or more like 
-techniques to help prepare data is essential to machine learning to help prepare data before any type of modeling to start happening.
+In this module 5 lab, L05 ML (Machine Learning) Data Preparation lab, it has shown while using the Titanic dataset for analysis, to focus how to use essential preprocessing 
+tasks such as the setup and initial LookWe, handling missing values such which is called imputation that means being able to fill in values, and lastly being able to encode 
+categorial features. Being able to evaluate and understand these new features or more like techniques to help prepare data is essential to machine learning to help prepare 
+data before any type of modeling to start happening.
 
 2.	DESCRIPTION OF EXPERIENCE/TOPIC - (Safa Basil)
 In this lab, I worked with the Titanic dataset and practiced several data-preparation techniques. First, I examined the dataset for missing values. The Age column contained many missing values, so I calculated the median age and used it to replace them. Next, I used one-hot encoding on the Sex and Embarked columns because machine learning models require numerical data. I used drop_first=True to avoid creating unnecessary duplicate columns. Finally, I used StandardScaler to standardize the Age and Fare columns so that both features were placed on a similar scale.
@@ -10,7 +11,16 @@ In this lab, I worked with the Titanic dataset and practiced several data-prepar
 In this lab, I worked with the Titanic dataset and learned how to prepare data for machine learning. I filled the missing Age values using the median, changed the Sex and Embarked columns into numbers using One-Hot Encoding, and scaled the Age and Fare columns. Some parts were confusing at first, but after running the code and seeing the results, I understood them better. This lab helped me see why clean and organized data is important before training a machine learning model.
 
 
-4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (Name)
+4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (Jennifer R.)
+I believe that this lab really helps strengthen the idea of how to properly prepare datasets beforehand rather than just going straight to making models. 
+Preprocessing method really helped understand data before any type of deeper analysis, almost like I’m collecting all the data or evidence before I start doing research or 
+investigation. I believe this help to know how to read models even better and understanding where all the data is coming from beginning to end. One thing I would like to 
+improve is the is being able to have the initial information of the DataFrame before any modifications to know why every decision is made by using all the tools we learned 
+from the other lab such as the histogram or the distributions. Thinking now I can really use this lesson in the real world because usually data sets would be missing 
+information and things being measured differently, preprocessing can help reduce the number of errors there could be and can introduce verification of information.
 
-5.	CONCLUSION – (Name)
-
+5.	CONCLUSION – (Jennifer R.)
+Overall, lab 5 showed how to be able to have all the data prepared using the preprocessing skill which is part of machine learning than immediately falling into modeling the 
+data immediately. Learning how to use the median imputation, one-hot encoding, standardization, helps being able to retain the unfinished records with categories and using 
+omparable scales with initial data. Although there could be some imitations while doing this it helps increase the confidence using pandas and preprocessing skill to help 
+verify results to help build the model afterwards.
